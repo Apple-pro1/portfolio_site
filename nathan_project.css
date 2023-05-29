@@ -156,8 +156,9 @@ p {
   margin: 10%;
 }
 
-#doingImg {
-  padding: 0px;
+#whatImDoing {
+  padding-bottom: 20px;
+  padding-right: 15px;
 }
 
 #sdg {
